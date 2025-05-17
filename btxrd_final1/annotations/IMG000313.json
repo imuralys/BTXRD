@@ -1,0 +1,90 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    146,
+                    117
+                ],
+                [
+                    153,
+                    123
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    149,
+                    117
+                ],
+                [
+                    147,
+                    121
+                ],
+                [
+                    147,
+                    121
+                ],
+                [
+                    147,
+                    122
+                ],
+                [
+                    148,
+                    122
+                ],
+                [
+                    149,
+                    122
+                ],
+                [
+                    151,
+                    121
+                ],
+                [
+                    152,
+                    120
+                ],
+                [
+                    152,
+                    118
+                ],
+                [
+                    152,
+                    118
+                ],
+                [
+                    151,
+                    118
+                ],
+                [
+                    151,
+                    118
+                ],
+                [
+                    150,
+                    117
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000313.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

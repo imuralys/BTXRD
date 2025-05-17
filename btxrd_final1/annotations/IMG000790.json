@@ -1,0 +1,94 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    93,
+                    139
+                ],
+                [
+                    104,
+                    156
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    95,
+                    154
+                ],
+                [
+                    94,
+                    151
+                ],
+                [
+                    94,
+                    145
+                ],
+                [
+                    95,
+                    142
+                ],
+                [
+                    98,
+                    139
+                ],
+                [
+                    100,
+                    139
+                ],
+                [
+                    103,
+                    140
+                ],
+                [
+                    103,
+                    144
+                ],
+                [
+                    104,
+                    147
+                ],
+                [
+                    104,
+                    153
+                ],
+                [
+                    102,
+                    155
+                ],
+                [
+                    100,
+                    155
+                ],
+                [
+                    98,
+                    155
+                ],
+                [
+                    96,
+                    155
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000790.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

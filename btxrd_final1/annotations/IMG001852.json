@@ -1,0 +1,138 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "simple bone cyst",
+            "points": [
+                [
+                    81,
+                    61
+                ],
+                [
+                    98,
+                    91
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "simple bone cyst",
+            "points": [
+                [
+                    81,
+                    67
+                ],
+                [
+                    83,
+                    65
+                ],
+                [
+                    84,
+                    63
+                ],
+                [
+                    86,
+                    62
+                ],
+                [
+                    88,
+                    61
+                ],
+                [
+                    90,
+                    61
+                ],
+                [
+                    92,
+                    63
+                ],
+                [
+                    95,
+                    65
+                ],
+                [
+                    97,
+                    65
+                ],
+                [
+                    98,
+                    68
+                ],
+                [
+                    97,
+                    72
+                ],
+                [
+                    98,
+                    75
+                ],
+                [
+                    98,
+                    79
+                ],
+                [
+                    97,
+                    83
+                ],
+                [
+                    97,
+                    85
+                ],
+                [
+                    96,
+                    88
+                ],
+                [
+                    95,
+                    89
+                ],
+                [
+                    94,
+                    90
+                ],
+                [
+                    91,
+                    89
+                ],
+                [
+                    90,
+                    87
+                ],
+                [
+                    88,
+                    84
+                ],
+                [
+                    85,
+                    80
+                ],
+                [
+                    83,
+                    74
+                ],
+                [
+                    82,
+                    71
+                ],
+                [
+                    82,
+                    68
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001852.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

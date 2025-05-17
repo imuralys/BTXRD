@@ -1,0 +1,102 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "other mt",
+            "points": [
+                [
+                    82,
+                    115
+                ],
+                [
+                    115,
+                    133
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other mt",
+            "points": [
+                [
+                    82,
+                    117
+                ],
+                [
+                    84,
+                    116
+                ],
+                [
+                    89,
+                    117
+                ],
+                [
+                    95,
+                    118
+                ],
+                [
+                    99,
+                    118
+                ],
+                [
+                    101,
+                    118
+                ],
+                [
+                    105,
+                    120
+                ],
+                [
+                    110,
+                    123
+                ],
+                [
+                    113,
+                    125
+                ],
+                [
+                    114,
+                    126
+                ],
+                [
+                    114,
+                    129
+                ],
+                [
+                    114,
+                    130
+                ],
+                [
+                    113,
+                    131
+                ],
+                [
+                    111,
+                    132
+                ],
+                [
+                    108,
+                    132
+                ],
+                [
+                    83,
+                    121
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001379.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

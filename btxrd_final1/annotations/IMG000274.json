@@ -1,0 +1,94 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    80,
+                    74
+                ],
+                [
+                    90,
+                    88
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    89,
+                    80
+                ],
+                [
+                    81,
+                    88
+                ],
+                [
+                    80,
+                    86
+                ],
+                [
+                    81,
+                    83
+                ],
+                [
+                    81,
+                    82
+                ],
+                [
+                    82,
+                    79
+                ],
+                [
+                    84,
+                    77
+                ],
+                [
+                    86,
+                    76
+                ],
+                [
+                    89,
+                    75
+                ],
+                [
+                    89,
+                    77
+                ],
+                [
+                    87,
+                    78
+                ],
+                [
+                    86,
+                    79
+                ],
+                [
+                    86,
+                    80
+                ],
+                [
+                    88,
+                    80
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000274.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

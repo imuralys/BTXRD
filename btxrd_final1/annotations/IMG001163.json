@@ -1,0 +1,82 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    123,
+                    162
+                ],
+                [
+                    135,
+                    169
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    134,
+                    168
+                ],
+                [
+                    123,
+                    169
+                ],
+                [
+                    123,
+                    167
+                ],
+                [
+                    124,
+                    164
+                ],
+                [
+                    124,
+                    163
+                ],
+                [
+                    126,
+                    163
+                ],
+                [
+                    128,
+                    163
+                ],
+                [
+                    129,
+                    162
+                ],
+                [
+                    134,
+                    162
+                ],
+                [
+                    135,
+                    163
+                ],
+                [
+                    134,
+                    167
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001163.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

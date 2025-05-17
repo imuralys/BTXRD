@@ -1,0 +1,110 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    80,
+                    141
+                ],
+                [
+                    90,
+                    160
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    88,
+                    141
+                ],
+                [
+                    89,
+                    145
+                ],
+                [
+                    89,
+                    148
+                ],
+                [
+                    90,
+                    152
+                ],
+                [
+                    89,
+                    154
+                ],
+                [
+                    88,
+                    157
+                ],
+                [
+                    87,
+                    158
+                ],
+                [
+                    86,
+                    159
+                ],
+                [
+                    84,
+                    160
+                ],
+                [
+                    82,
+                    160
+                ],
+                [
+                    81,
+                    159
+                ],
+                [
+                    81,
+                    157
+                ],
+                [
+                    81,
+                    154
+                ],
+                [
+                    81,
+                    152
+                ],
+                [
+                    84,
+                    148
+                ],
+                [
+                    85,
+                    146
+                ],
+                [
+                    86,
+                    143
+                ],
+                [
+                    87,
+                    142
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001285.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

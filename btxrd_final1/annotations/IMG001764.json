@@ -1,0 +1,82 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "other mt",
+            "points": [
+                [
+                    139,
+                    68
+                ],
+                [
+                    152,
+                    83
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other mt",
+            "points": [
+                [
+                    139,
+                    79
+                ],
+                [
+                    140,
+                    74
+                ],
+                [
+                    140,
+                    70
+                ],
+                [
+                    144,
+                    68
+                ],
+                [
+                    148,
+                    68
+                ],
+                [
+                    151,
+                    70
+                ],
+                [
+                    152,
+                    75
+                ],
+                [
+                    151,
+                    80
+                ],
+                [
+                    151,
+                    83
+                ],
+                [
+                    144,
+                    83
+                ],
+                [
+                    141,
+                    81
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001764.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

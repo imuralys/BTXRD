@@ -1,0 +1,94 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "giant cell tumor",
+            "points": [
+                [
+                    124,
+                    129
+                ],
+                [
+                    131,
+                    137
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "giant cell tumor",
+            "points": [
+                [
+                    125,
+                    131
+                ],
+                [
+                    126,
+                    130
+                ],
+                [
+                    127,
+                    131
+                ],
+                [
+                    129,
+                    131
+                ],
+                [
+                    130,
+                    130
+                ],
+                [
+                    131,
+                    130
+                ],
+                [
+                    131,
+                    133
+                ],
+                [
+                    131,
+                    134
+                ],
+                [
+                    131,
+                    135
+                ],
+                [
+                    130,
+                    137
+                ],
+                [
+                    129,
+                    137
+                ],
+                [
+                    129,
+                    135
+                ],
+                [
+                    128,
+                    133
+                ],
+                [
+                    127,
+                    133
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000370.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

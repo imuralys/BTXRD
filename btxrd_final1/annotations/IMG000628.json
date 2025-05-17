@@ -1,0 +1,90 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "simple bone cyst",
+            "points": [
+                [
+                    94,
+                    199
+                ],
+                [
+                    98,
+                    204
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "simple bone cyst",
+            "points": [
+                [
+                    94,
+                    203
+                ],
+                [
+                    94,
+                    202
+                ],
+                [
+                    94,
+                    201
+                ],
+                [
+                    94,
+                    200
+                ],
+                [
+                    96,
+                    199
+                ],
+                [
+                    97,
+                    199
+                ],
+                [
+                    98,
+                    200
+                ],
+                [
+                    98,
+                    201
+                ],
+                [
+                    98,
+                    203
+                ],
+                [
+                    98,
+                    204
+                ],
+                [
+                    98,
+                    204
+                ],
+                [
+                    97,
+                    204
+                ],
+                [
+                    95,
+                    204
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000628.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

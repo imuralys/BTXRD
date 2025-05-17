@@ -1,0 +1,102 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "giant cell tumor",
+            "points": [
+                [
+                    37,
+                    43
+                ],
+                [
+                    66,
+                    76
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "giant cell tumor",
+            "points": [
+                [
+                    40,
+                    45
+                ],
+                [
+                    43,
+                    46
+                ],
+                [
+                    46,
+                    49
+                ],
+                [
+                    53,
+                    57
+                ],
+                [
+                    59,
+                    67
+                ],
+                [
+                    63,
+                    72
+                ],
+                [
+                    65,
+                    75
+                ],
+                [
+                    61,
+                    74
+                ],
+                [
+                    56,
+                    70
+                ],
+                [
+                    51,
+                    66
+                ],
+                [
+                    48,
+                    63
+                ],
+                [
+                    43,
+                    57
+                ],
+                [
+                    41,
+                    53
+                ],
+                [
+                    39,
+                    49
+                ],
+                [
+                    38,
+                    45
+                ],
+                [
+                    39,
+                    44
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001656.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

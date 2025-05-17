@@ -1,0 +1,182 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    92,
+                    104
+                ],
+                [
+                    109,
+                    196
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    126,
+                    77
+                ],
+                [
+                    136,
+                    115
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    92,
+                    194
+                ],
+                [
+                    92,
+                    125
+                ],
+                [
+                    93,
+                    111
+                ],
+                [
+                    96,
+                    106
+                ],
+                [
+                    105,
+                    105
+                ],
+                [
+                    108,
+                    114
+                ],
+                [
+                    109,
+                    123
+                ],
+                [
+                    109,
+                    128
+                ],
+                [
+                    106,
+                    132
+                ],
+                [
+                    105,
+                    135
+                ],
+                [
+                    104,
+                    143
+                ],
+                [
+                    104,
+                    152
+                ],
+                [
+                    103,
+                    162
+                ],
+                [
+                    103,
+                    171
+                ],
+                [
+                    105,
+                    173
+                ],
+                [
+                    106,
+                    178
+                ],
+                [
+                    107,
+                    188
+                ],
+                [
+                    106,
+                    195
+                ],
+                [
+                    101,
+                    194
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    126,
+                    78
+                ],
+                [
+                    126,
+                    108
+                ],
+                [
+                    129,
+                    110
+                ],
+                [
+                    131,
+                    106
+                ],
+                [
+                    134,
+                    105
+                ],
+                [
+                    135,
+                    99
+                ],
+                [
+                    135,
+                    92
+                ],
+                [
+                    132,
+                    87
+                ],
+                [
+                    132,
+                    81
+                ],
+                [
+                    130,
+                    78
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001441.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

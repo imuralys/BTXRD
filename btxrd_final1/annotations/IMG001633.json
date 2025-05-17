@@ -1,0 +1,98 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "other mt",
+            "points": [
+                [
+                    128,
+                    65
+                ],
+                [
+                    139,
+                    95
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other mt",
+            "points": [
+                [
+                    128,
+                    89
+                ],
+                [
+                    129,
+                    83
+                ],
+                [
+                    129,
+                    73
+                ],
+                [
+                    130,
+                    68
+                ],
+                [
+                    132,
+                    67
+                ],
+                [
+                    134,
+                    66
+                ],
+                [
+                    135,
+                    66
+                ],
+                [
+                    138,
+                    70
+                ],
+                [
+                    138,
+                    72
+                ],
+                [
+                    139,
+                    76
+                ],
+                [
+                    138,
+                    88
+                ],
+                [
+                    137,
+                    92
+                ],
+                [
+                    135,
+                    94
+                ],
+                [
+                    133,
+                    94
+                ],
+                [
+                    130,
+                    91
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001633.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

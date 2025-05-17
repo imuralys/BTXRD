@@ -1,0 +1,166 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    97,
+                    62
+                ],
+                [
+                    102,
+                    69
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    134,
+                    119
+                ],
+                [
+                    138,
+                    126
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    101,
+                    63
+                ],
+                [
+                    101,
+                    69
+                ],
+                [
+                    99,
+                    69
+                ],
+                [
+                    98,
+                    69
+                ],
+                [
+                    97,
+                    69
+                ],
+                [
+                    97,
+                    68
+                ],
+                [
+                    97,
+                    66
+                ],
+                [
+                    99,
+                    64
+                ],
+                [
+                    100,
+                    63
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    134,
+                    120
+                ],
+                [
+                    135,
+                    126
+                ],
+                [
+                    135,
+                    125
+                ],
+                [
+                    136,
+                    124
+                ],
+                [
+                    136,
+                    123
+                ],
+                [
+                    136,
+                    123
+                ],
+                [
+                    136,
+                    123
+                ],
+                [
+                    137,
+                    123
+                ],
+                [
+                    137,
+                    123
+                ],
+                [
+                    137,
+                    123
+                ],
+                [
+                    137,
+                    122
+                ],
+                [
+                    137,
+                    122
+                ],
+                [
+                    136,
+                    121
+                ],
+                [
+                    136,
+                    121
+                ],
+                [
+                    135,
+                    120
+                ],
+                [
+                    135,
+                    120
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000244.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

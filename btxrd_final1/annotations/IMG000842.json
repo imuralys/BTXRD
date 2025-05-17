@@ -1,0 +1,98 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    86,
+                    54
+                ],
+                [
+                    101,
+                    77
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    92,
+                    55
+                ],
+                [
+                    90,
+                    57
+                ],
+                [
+                    88,
+                    60
+                ],
+                [
+                    87,
+                    64
+                ],
+                [
+                    87,
+                    66
+                ],
+                [
+                    88,
+                    69
+                ],
+                [
+                    89,
+                    71
+                ],
+                [
+                    90,
+                    73
+                ],
+                [
+                    90,
+                    73
+                ],
+                [
+                    94,
+                    76
+                ],
+                [
+                    99,
+                    74
+                ],
+                [
+                    100,
+                    69
+                ],
+                [
+                    100,
+                    64
+                ],
+                [
+                    97,
+                    60
+                ],
+                [
+                    94,
+                    57
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000842.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

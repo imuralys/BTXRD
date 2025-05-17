@@ -1,0 +1,110 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "other mt",
+            "points": [
+                [
+                    92,
+                    76
+                ],
+                [
+                    137,
+                    168
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other mt",
+            "points": [
+                [
+                    95,
+                    81
+                ],
+                [
+                    107,
+                    80
+                ],
+                [
+                    116,
+                    77
+                ],
+                [
+                    121,
+                    77
+                ],
+                [
+                    128,
+                    80
+                ],
+                [
+                    131,
+                    89
+                ],
+                [
+                    135,
+                    99
+                ],
+                [
+                    135,
+                    106
+                ],
+                [
+                    129,
+                    105
+                ],
+                [
+                    124,
+                    108
+                ],
+                [
+                    121,
+                    116
+                ],
+                [
+                    116,
+                    167
+                ],
+                [
+                    95,
+                    168
+                ],
+                [
+                    93,
+                    138
+                ],
+                [
+                    95,
+                    122
+                ],
+                [
+                    94,
+                    105
+                ],
+                [
+                    93,
+                    95
+                ],
+                [
+                    93,
+                    86
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001439.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

@@ -1,0 +1,158 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    134,
+                    87
+                ],
+                [
+                    142,
+                    94
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    117,
+                    113
+                ],
+                [
+                    121,
+                    132
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    140,
+                    93
+                ],
+                [
+                    134,
+                    93
+                ],
+                [
+                    135,
+                    89
+                ],
+                [
+                    136,
+                    88
+                ],
+                [
+                    139,
+                    87
+                ],
+                [
+                    140,
+                    87
+                ],
+                [
+                    141,
+                    88
+                ],
+                [
+                    141,
+                    89
+                ],
+                [
+                    141,
+                    91
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    119,
+                    115
+                ],
+                [
+                    118,
+                    122
+                ],
+                [
+                    118,
+                    125
+                ],
+                [
+                    118,
+                    128
+                ],
+                [
+                    118,
+                    130
+                ],
+                [
+                    118,
+                    131
+                ],
+                [
+                    119,
+                    127
+                ],
+                [
+                    119,
+                    127
+                ],
+                [
+                    120,
+                    126
+                ],
+                [
+                    121,
+                    123
+                ],
+                [
+                    121,
+                    121
+                ],
+                [
+                    121,
+                    119
+                ],
+                [
+                    121,
+                    117
+                ],
+                [
+                    120,
+                    115
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001133.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

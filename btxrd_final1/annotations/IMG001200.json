@@ -1,0 +1,182 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    77,
+                    92
+                ],
+                [
+                    80,
+                    98
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    125,
+                    49
+                ],
+                [
+                    129,
+                    53
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    125,
+                    51
+                ],
+                [
+                    126,
+                    52
+                ],
+                [
+                    126,
+                    53
+                ],
+                [
+                    127,
+                    53
+                ],
+                [
+                    127,
+                    53
+                ],
+                [
+                    128,
+                    53
+                ],
+                [
+                    128,
+                    53
+                ],
+                [
+                    128,
+                    52
+                ],
+                [
+                    128,
+                    51
+                ],
+                [
+                    128,
+                    50
+                ],
+                [
+                    127,
+                    50
+                ],
+                [
+                    126,
+                    49
+                ],
+                [
+                    126,
+                    49
+                ],
+                [
+                    126,
+                    49
+                ],
+                [
+                    125,
+                    50
+                ],
+                [
+                    125,
+                    50
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    79,
+                    94
+                ],
+                [
+                    78,
+                    97
+                ],
+                [
+                    78,
+                    97
+                ],
+                [
+                    78,
+                    97
+                ],
+                [
+                    78,
+                    96
+                ],
+                [
+                    78,
+                    95
+                ],
+                [
+                    78,
+                    94
+                ],
+                [
+                    78,
+                    93
+                ],
+                [
+                    78,
+                    92
+                ],
+                [
+                    78,
+                    92
+                ],
+                [
+                    79,
+                    92
+                ],
+                [
+                    79,
+                    93
+                ],
+                [
+                    79,
+                    93
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001200.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

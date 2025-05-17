@@ -1,0 +1,94 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteosarcoma",
+            "points": [
+                [
+                    117,
+                    92
+                ],
+                [
+                    135,
+                    159
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteosarcoma",
+            "points": [
+                [
+                    118,
+                    93
+                ],
+                [
+                    129,
+                    93
+                ],
+                [
+                    131,
+                    114
+                ],
+                [
+                    133,
+                    123
+                ],
+                [
+                    134,
+                    127
+                ],
+                [
+                    134,
+                    132
+                ],
+                [
+                    135,
+                    139
+                ],
+                [
+                    135,
+                    155
+                ],
+                [
+                    134,
+                    157
+                ],
+                [
+                    122,
+                    159
+                ],
+                [
+                    121,
+                    156
+                ],
+                [
+                    118,
+                    147
+                ],
+                [
+                    117,
+                    142
+                ],
+                [
+                    117,
+                    140
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000100.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

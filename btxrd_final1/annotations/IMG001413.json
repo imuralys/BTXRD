@@ -1,0 +1,94 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "other mt",
+            "points": [
+                [
+                    106,
+                    169
+                ],
+                [
+                    115,
+                    187
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other mt",
+            "points": [
+                [
+                    107,
+                    170
+                ],
+                [
+                    109,
+                    170
+                ],
+                [
+                    112,
+                    172
+                ],
+                [
+                    113,
+                    174
+                ],
+                [
+                    114,
+                    180
+                ],
+                [
+                    115,
+                    183
+                ],
+                [
+                    114,
+                    185
+                ],
+                [
+                    113,
+                    187
+                ],
+                [
+                    111,
+                    183
+                ],
+                [
+                    110,
+                    181
+                ],
+                [
+                    108,
+                    180
+                ],
+                [
+                    107,
+                    176
+                ],
+                [
+                    107,
+                    173
+                ],
+                [
+                    106,
+                    171
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001413.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

@@ -1,0 +1,102 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    131,
+                    134
+                ],
+                [
+                    140,
+                    158
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    132,
+                    136
+                ],
+                [
+                    131,
+                    154
+                ],
+                [
+                    132,
+                    154
+                ],
+                [
+                    134,
+                    155
+                ],
+                [
+                    135,
+                    156
+                ],
+                [
+                    137,
+                    157
+                ],
+                [
+                    138,
+                    157
+                ],
+                [
+                    139,
+                    155
+                ],
+                [
+                    139,
+                    153
+                ],
+                [
+                    138,
+                    151
+                ],
+                [
+                    138,
+                    147
+                ],
+                [
+                    137,
+                    142
+                ],
+                [
+                    137,
+                    137
+                ],
+                [
+                    137,
+                    135
+                ],
+                [
+                    134,
+                    136
+                ],
+                [
+                    133,
+                    136
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001027.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

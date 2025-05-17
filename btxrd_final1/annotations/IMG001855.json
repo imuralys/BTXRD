@@ -1,0 +1,110 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "simple bone cyst",
+            "points": [
+                [
+                    94,
+                    41
+                ],
+                [
+                    113,
+                    76
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "simple bone cyst",
+            "points": [
+                [
+                    102,
+                    74
+                ],
+                [
+                    100,
+                    63
+                ],
+                [
+                    98,
+                    56
+                ],
+                [
+                    96,
+                    49
+                ],
+                [
+                    95,
+                    46
+                ],
+                [
+                    98,
+                    43
+                ],
+                [
+                    100,
+                    42
+                ],
+                [
+                    106,
+                    42
+                ],
+                [
+                    109,
+                    42
+                ],
+                [
+                    110,
+                    43
+                ],
+                [
+                    112,
+                    54
+                ],
+                [
+                    112,
+                    59
+                ],
+                [
+                    112,
+                    71
+                ],
+                [
+                    112,
+                    74
+                ],
+                [
+                    111,
+                    75
+                ],
+                [
+                    110,
+                    75
+                ],
+                [
+                    108,
+                    75
+                ],
+                [
+                    106,
+                    75
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001855.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

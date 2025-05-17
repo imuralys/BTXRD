@@ -1,0 +1,90 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "simple bone cyst",
+            "points": [
+                [
+                    183,
+                    110
+                ],
+                [
+                    187,
+                    115
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "simple bone cyst",
+            "points": [
+                [
+                    184,
+                    114
+                ],
+                [
+                    184,
+                    113
+                ],
+                [
+                    184,
+                    112
+                ],
+                [
+                    184,
+                    111
+                ],
+                [
+                    184,
+                    111
+                ],
+                [
+                    186,
+                    110
+                ],
+                [
+                    186,
+                    111
+                ],
+                [
+                    187,
+                    112
+                ],
+                [
+                    187,
+                    112
+                ],
+                [
+                    187,
+                    113
+                ],
+                [
+                    187,
+                    114
+                ],
+                [
+                    186,
+                    114
+                ],
+                [
+                    185,
+                    114
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000673.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

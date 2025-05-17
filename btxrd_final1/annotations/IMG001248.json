@@ -1,0 +1,90 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    97,
+                    125
+                ],
+                [
+                    100,
+                    131
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    97,
+                    125
+                ],
+                [
+                    97,
+                    130
+                ],
+                [
+                    97,
+                    129
+                ],
+                [
+                    98,
+                    129
+                ],
+                [
+                    98,
+                    129
+                ],
+                [
+                    99,
+                    130
+                ],
+                [
+                    100,
+                    130
+                ],
+                [
+                    100,
+                    129
+                ],
+                [
+                    100,
+                    128
+                ],
+                [
+                    100,
+                    127
+                ],
+                [
+                    99,
+                    126
+                ],
+                [
+                    99,
+                    126
+                ],
+                [
+                    98,
+                    126
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001248.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

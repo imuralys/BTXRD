@@ -1,0 +1,94 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "giant cell tumor",
+            "points": [
+                [
+                    50,
+                    70
+                ],
+                [
+                    86,
+                    121
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "giant cell tumor",
+            "points": [
+                [
+                    51,
+                    101
+                ],
+                [
+                    55,
+                    87
+                ],
+                [
+                    60,
+                    75
+                ],
+                [
+                    65,
+                    72
+                ],
+                [
+                    70,
+                    72
+                ],
+                [
+                    74,
+                    71
+                ],
+                [
+                    82,
+                    73
+                ],
+                [
+                    85,
+                    81
+                ],
+                [
+                    85,
+                    105
+                ],
+                [
+                    82,
+                    113
+                ],
+                [
+                    76,
+                    117
+                ],
+                [
+                    66,
+                    120
+                ],
+                [
+                    56,
+                    119
+                ],
+                [
+                    53,
+                    113
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001762.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

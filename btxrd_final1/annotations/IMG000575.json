@@ -1,0 +1,268 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    94,
+                    0
+                ],
+                [
+                    116,
+                    20
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    104,
+                    60
+                ],
+                [
+                    125,
+                    99
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    98,
+                    166
+                ],
+                [
+                    124,
+                    194
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    95,
+                    0
+                ],
+                [
+                    114,
+                    1
+                ],
+                [
+                    115,
+                    3
+                ],
+                [
+                    115,
+                    6
+                ],
+                [
+                    115,
+                    11
+                ],
+                [
+                    115,
+                    14
+                ],
+                [
+                    114,
+                    19
+                ],
+                [
+                    112,
+                    19
+                ],
+                [
+                    109,
+                    19
+                ],
+                [
+                    105,
+                    18
+                ],
+                [
+                    103,
+                    16
+                ],
+                [
+                    98,
+                    12
+                ],
+                [
+                    96,
+                    7
+                ],
+                [
+                    95,
+                    4
+                ],
+                [
+                    95,
+                    2
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    109,
+                    61
+                ],
+                [
+                    113,
+                    62
+                ],
+                [
+                    115,
+                    63
+                ],
+                [
+                    122,
+                    65
+                ],
+                [
+                    123,
+                    67
+                ],
+                [
+                    124,
+                    73
+                ],
+                [
+                    123,
+                    83
+                ],
+                [
+                    124,
+                    93
+                ],
+                [
+                    124,
+                    93
+                ],
+                [
+                    124,
+                    95
+                ],
+                [
+                    123,
+                    97
+                ],
+                [
+                    120,
+                    97
+                ],
+                [
+                    118,
+                    94
+                ],
+                [
+                    117,
+                    90
+                ],
+                [
+                    116,
+                    90
+                ],
+                [
+                    114,
+                    90
+                ],
+                [
+                    113,
+                    90
+                ],
+                [
+                    109,
+                    89
+                ],
+                [
+                    108,
+                    85
+                ],
+                [
+                    109,
+                    81
+                ],
+                [
+                    109,
+                    80
+                ],
+                [
+                    107,
+                    77
+                ],
+                [
+                    106,
+                    79
+                ],
+                [
+                    105,
+                    79
+                ],
+                [
+                    104,
+                    78
+                ],
+                [
+                    104,
+                    75
+                ],
+                [
+                    105,
+                    71
+                ],
+                [
+                    105,
+                    68
+                ],
+                [
+                    104,
+                    64
+                ],
+                [
+                    107,
+                    62
+                ],
+                [
+                    108,
+                    62
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000575.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

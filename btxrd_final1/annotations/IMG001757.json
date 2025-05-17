@@ -1,0 +1,94 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    93,
+                    25
+                ],
+                [
+                    102,
+                    37
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    101,
+                    29
+                ],
+                [
+                    100,
+                    36
+                ],
+                [
+                    99,
+                    36
+                ],
+                [
+                    98,
+                    36
+                ],
+                [
+                    96,
+                    37
+                ],
+                [
+                    95,
+                    36
+                ],
+                [
+                    94,
+                    33
+                ],
+                [
+                    93,
+                    30
+                ],
+                [
+                    93,
+                    27
+                ],
+                [
+                    95,
+                    26
+                ],
+                [
+                    97,
+                    25
+                ],
+                [
+                    98,
+                    25
+                ],
+                [
+                    99,
+                    27
+                ],
+                [
+                    101,
+                    28
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001757.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

@@ -1,0 +1,94 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    177,
+                    102
+                ],
+                [
+                    184,
+                    109
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    178,
+                    108
+                ],
+                [
+                    179,
+                    106
+                ],
+                [
+                    179,
+                    105
+                ],
+                [
+                    178,
+                    103
+                ],
+                [
+                    179,
+                    102
+                ],
+                [
+                    181,
+                    101
+                ],
+                [
+                    183,
+                    102
+                ],
+                [
+                    183,
+                    103
+                ],
+                [
+                    184,
+                    106
+                ],
+                [
+                    183,
+                    108
+                ],
+                [
+                    181,
+                    109
+                ],
+                [
+                    179,
+                    109
+                ],
+                [
+                    178,
+                    109
+                ],
+                [
+                    178,
+                    108
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001012.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

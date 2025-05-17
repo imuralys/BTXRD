@@ -1,0 +1,98 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "simple bone cyst",
+            "points": [
+                [
+                    57,
+                    76
+                ],
+                [
+                    73,
+                    101
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "simple bone cyst",
+            "points": [
+                [
+                    66,
+                    76
+                ],
+                [
+                    60,
+                    79
+                ],
+                [
+                    57,
+                    82
+                ],
+                [
+                    57,
+                    88
+                ],
+                [
+                    57,
+                    93
+                ],
+                [
+                    58,
+                    99
+                ],
+                [
+                    58,
+                    100
+                ],
+                [
+                    63,
+                    101
+                ],
+                [
+                    68,
+                    100
+                ],
+                [
+                    69,
+                    97
+                ],
+                [
+                    71,
+                    93
+                ],
+                [
+                    72,
+                    90
+                ],
+                [
+                    72,
+                    87
+                ],
+                [
+                    73,
+                    84
+                ],
+                [
+                    70,
+                    80
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000554.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

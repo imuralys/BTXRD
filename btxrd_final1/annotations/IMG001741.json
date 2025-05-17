@@ -1,0 +1,94 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "other mt",
+            "points": [
+                [
+                    98,
+                    94
+                ],
+                [
+                    109,
+                    105
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other mt",
+            "points": [
+                [
+                    99,
+                    101
+                ],
+                [
+                    99,
+                    98
+                ],
+                [
+                    100,
+                    95
+                ],
+                [
+                    101,
+                    95
+                ],
+                [
+                    103,
+                    94
+                ],
+                [
+                    106,
+                    94
+                ],
+                [
+                    107,
+                    96
+                ],
+                [
+                    108,
+                    99
+                ],
+                [
+                    108,
+                    102
+                ],
+                [
+                    108,
+                    103
+                ],
+                [
+                    106,
+                    104
+                ],
+                [
+                    104,
+                    104
+                ],
+                [
+                    103,
+                    103
+                ],
+                [
+                    101,
+                    102
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001741.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

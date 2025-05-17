@@ -1,0 +1,98 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "giant cell tumor",
+            "points": [
+                [
+                    88,
+                    56
+                ],
+                [
+                    115,
+                    98
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "giant cell tumor",
+            "points": [
+                [
+                    99,
+                    56
+                ],
+                [
+                    102,
+                    56
+                ],
+                [
+                    105,
+                    58
+                ],
+                [
+                    109,
+                    65
+                ],
+                [
+                    112,
+                    72
+                ],
+                [
+                    114,
+                    81
+                ],
+                [
+                    114,
+                    91
+                ],
+                [
+                    111,
+                    96
+                ],
+                [
+                    109,
+                    96
+                ],
+                [
+                    96,
+                    97
+                ],
+                [
+                    92,
+                    96
+                ],
+                [
+                    90,
+                    80
+                ],
+                [
+                    90,
+                    69
+                ],
+                [
+                    90,
+                    61
+                ],
+                [
+                    94,
+                    58
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001539.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

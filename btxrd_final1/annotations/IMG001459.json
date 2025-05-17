@@ -1,0 +1,94 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteosarcoma",
+            "points": [
+                [
+                    82,
+                    117
+                ],
+                [
+                    133,
+                    178
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteosarcoma",
+            "points": [
+                [
+                    90,
+                    118
+                ],
+                [
+                    121,
+                    120
+                ],
+                [
+                    130,
+                    151
+                ],
+                [
+                    131,
+                    160
+                ],
+                [
+                    132,
+                    165
+                ],
+                [
+                    128,
+                    172
+                ],
+                [
+                    123,
+                    175
+                ],
+                [
+                    109,
+                    177
+                ],
+                [
+                    98,
+                    177
+                ],
+                [
+                    91,
+                    177
+                ],
+                [
+                    86,
+                    171
+                ],
+                [
+                    84,
+                    141
+                ],
+                [
+                    84,
+                    129
+                ],
+                [
+                    86,
+                    121
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001459.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

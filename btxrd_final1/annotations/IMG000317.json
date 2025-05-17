@@ -1,0 +1,126 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    43,
+                    49
+                ],
+                [
+                    65,
+                    72
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    44,
+                    63
+                ],
+                [
+                    47,
+                    66
+                ],
+                [
+                    49,
+                    66
+                ],
+                [
+                    52,
+                    69
+                ],
+                [
+                    58,
+                    71
+                ],
+                [
+                    59,
+                    72
+                ],
+                [
+                    62,
+                    72
+                ],
+                [
+                    63,
+                    72
+                ],
+                [
+                    64,
+                    69
+                ],
+                [
+                    63,
+                    65
+                ],
+                [
+                    62,
+                    63
+                ],
+                [
+                    61,
+                    61
+                ],
+                [
+                    60,
+                    57
+                ],
+                [
+                    58,
+                    55
+                ],
+                [
+                    54,
+                    53
+                ],
+                [
+                    52,
+                    51
+                ],
+                [
+                    50,
+                    50
+                ],
+                [
+                    49,
+                    50
+                ],
+                [
+                    45,
+                    50
+                ],
+                [
+                    45,
+                    51
+                ],
+                [
+                    44,
+                    53
+                ],
+                [
+                    44,
+                    55
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000317.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

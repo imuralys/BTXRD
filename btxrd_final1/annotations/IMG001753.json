@@ -1,0 +1,138 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    116,
+                    5
+                ],
+                [
+                    123,
+                    20
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    135,
+                    30
+                ],
+                [
+                    140,
+                    42
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    123,
+                    5
+                ],
+                [
+                    118,
+                    20
+                ],
+                [
+                    117,
+                    20
+                ],
+                [
+                    116,
+                    18
+                ],
+                [
+                    116,
+                    16
+                ],
+                [
+                    116,
+                    12
+                ],
+                [
+                    117,
+                    9
+                ],
+                [
+                    119,
+                    7
+                ],
+                [
+                    121,
+                    6
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    139,
+                    31
+                ],
+                [
+                    136,
+                    41
+                ],
+                [
+                    137,
+                    41
+                ],
+                [
+                    138,
+                    39
+                ],
+                [
+                    139,
+                    37
+                ],
+                [
+                    139,
+                    35
+                ],
+                [
+                    140,
+                    32
+                ],
+                [
+                    140,
+                    31
+                ],
+                [
+                    139,
+                    31
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001753.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

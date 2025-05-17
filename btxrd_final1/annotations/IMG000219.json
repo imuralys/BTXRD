@@ -1,0 +1,102 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteosarcoma",
+            "points": [
+                [
+                    113,
+                    17
+                ],
+                [
+                    134,
+                    74
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteosarcoma",
+            "points": [
+                [
+                    114,
+                    73
+                ],
+                [
+                    114,
+                    21
+                ],
+                [
+                    114,
+                    18
+                ],
+                [
+                    119,
+                    18
+                ],
+                [
+                    127,
+                    19
+                ],
+                [
+                    130,
+                    18
+                ],
+                [
+                    132,
+                    19
+                ],
+                [
+                    133,
+                    21
+                ],
+                [
+                    134,
+                    26
+                ],
+                [
+                    134,
+                    29
+                ],
+                [
+                    134,
+                    32
+                ],
+                [
+                    133,
+                    41
+                ],
+                [
+                    133,
+                    47
+                ],
+                [
+                    133,
+                    66
+                ],
+                [
+                    133,
+                    69
+                ],
+                [
+                    132,
+                    74
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000219.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

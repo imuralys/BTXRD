@@ -1,0 +1,142 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "synovial osteochondroma",
+            "points": [
+                [
+                    71,
+                    66
+                ],
+                [
+                    134,
+                    128
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "synovial osteochondroma",
+            "points": [
+                [
+                    75,
+                    99
+                ],
+                [
+                    79,
+                    92
+                ],
+                [
+                    82,
+                    86
+                ],
+                [
+                    85,
+                    82
+                ],
+                [
+                    91,
+                    75
+                ],
+                [
+                    95,
+                    69
+                ],
+                [
+                    110,
+                    68
+                ],
+                [
+                    120,
+                    68
+                ],
+                [
+                    123,
+                    77
+                ],
+                [
+                    124,
+                    80
+                ],
+                [
+                    127,
+                    84
+                ],
+                [
+                    129,
+                    87
+                ],
+                [
+                    131,
+                    92
+                ],
+                [
+                    132,
+                    96
+                ],
+                [
+                    132,
+                    100
+                ],
+                [
+                    132,
+                    107
+                ],
+                [
+                    132,
+                    110
+                ],
+                [
+                    131,
+                    113
+                ],
+                [
+                    129,
+                    122
+                ],
+                [
+                    125,
+                    122
+                ],
+                [
+                    116,
+                    122
+                ],
+                [
+                    107,
+                    122
+                ],
+                [
+                    92,
+                    122
+                ],
+                [
+                    88,
+                    122
+                ],
+                [
+                    82,
+                    122
+                ],
+                [
+                    74,
+                    120
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001190.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

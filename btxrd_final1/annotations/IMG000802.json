@@ -1,0 +1,98 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "giant cell tumor",
+            "points": [
+                [
+                    103,
+                    73
+                ],
+                [
+                    139,
+                    113
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "giant cell tumor",
+            "points": [
+                [
+                    105,
+                    74
+                ],
+                [
+                    132,
+                    74
+                ],
+                [
+                    138,
+                    87
+                ],
+                [
+                    136,
+                    99
+                ],
+                [
+                    132,
+                    107
+                ],
+                [
+                    129,
+                    111
+                ],
+                [
+                    125,
+                    112
+                ],
+                [
+                    121,
+                    112
+                ],
+                [
+                    109,
+                    108
+                ],
+                [
+                    104,
+                    104
+                ],
+                [
+                    103,
+                    101
+                ],
+                [
+                    103,
+                    92
+                ],
+                [
+                    103,
+                    86
+                ],
+                [
+                    105,
+                    83
+                ],
+                [
+                    106,
+                    79
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000802.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

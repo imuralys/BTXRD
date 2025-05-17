@@ -1,0 +1,90 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "giant cell tumor",
+            "points": [
+                [
+                    76,
+                    42
+                ],
+                [
+                    112,
+                    68
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "giant cell tumor",
+            "points": [
+                [
+                    77,
+                    65
+                ],
+                [
+                    83,
+                    54
+                ],
+                [
+                    95,
+                    43
+                ],
+                [
+                    103,
+                    42
+                ],
+                [
+                    105,
+                    42
+                ],
+                [
+                    109,
+                    48
+                ],
+                [
+                    111,
+                    53
+                ],
+                [
+                    110,
+                    57
+                ],
+                [
+                    103,
+                    59
+                ],
+                [
+                    97,
+                    61
+                ],
+                [
+                    94,
+                    64
+                ],
+                [
+                    92,
+                    67
+                ],
+                [
+                    78,
+                    68
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001763.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

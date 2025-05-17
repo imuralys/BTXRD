@@ -1,0 +1,106 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteosarcoma",
+            "points": [
+                [
+                    91,
+                    71
+                ],
+                [
+                    134,
+                    108
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteosarcoma",
+            "points": [
+                [
+                    133,
+                    86
+                ],
+                [
+                    130,
+                    104
+                ],
+                [
+                    127,
+                    108
+                ],
+                [
+                    98,
+                    108
+                ],
+                [
+                    96,
+                    104
+                ],
+                [
+                    93,
+                    104
+                ],
+                [
+                    92,
+                    102
+                ],
+                [
+                    92,
+                    96
+                ],
+                [
+                    93,
+                    91
+                ],
+                [
+                    96,
+                    87
+                ],
+                [
+                    100,
+                    81
+                ],
+                [
+                    102,
+                    78
+                ],
+                [
+                    105,
+                    73
+                ],
+                [
+                    108,
+                    72
+                ],
+                [
+                    111,
+                    71
+                ],
+                [
+                    124,
+                    72
+                ],
+                [
+                    132,
+                    72
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000092.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

@@ -1,0 +1,134 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "giant cell tumor",
+            "points": [
+                [
+                    46,
+                    24
+                ],
+                [
+                    79,
+                    58
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "giant cell tumor",
+            "points": [
+                [
+                    78,
+                    56
+                ],
+                [
+                    77,
+                    57
+                ],
+                [
+                    75,
+                    57
+                ],
+                [
+                    73,
+                    57
+                ],
+                [
+                    69,
+                    56
+                ],
+                [
+                    69,
+                    56
+                ],
+                [
+                    66,
+                    57
+                ],
+                [
+                    63,
+                    57
+                ],
+                [
+                    60,
+                    56
+                ],
+                [
+                    56,
+                    52
+                ],
+                [
+                    52,
+                    46
+                ],
+                [
+                    49,
+                    40
+                ],
+                [
+                    47,
+                    36
+                ],
+                [
+                    46,
+                    32
+                ],
+                [
+                    48,
+                    29
+                ],
+                [
+                    52,
+                    27
+                ],
+                [
+                    56,
+                    26
+                ],
+                [
+                    57,
+                    25
+                ],
+                [
+                    63,
+                    29
+                ],
+                [
+                    71,
+                    34
+                ],
+                [
+                    77,
+                    40
+                ],
+                [
+                    79,
+                    44
+                ],
+                [
+                    79,
+                    50
+                ],
+                [
+                    78,
+                    55
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001655.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

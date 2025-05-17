@@ -1,0 +1,182 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteofibroma",
+            "points": [
+                [
+                    92,
+                    82
+                ],
+                [
+                    98,
+                    100
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteofibroma",
+            "points": [
+                [
+                    91,
+                    107
+                ],
+                [
+                    94,
+                    118
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteofibroma",
+            "points": [
+                [
+                    94,
+                    82
+                ],
+                [
+                    95,
+                    82
+                ],
+                [
+                    96,
+                    83
+                ],
+                [
+                    96,
+                    84
+                ],
+                [
+                    97,
+                    85
+                ],
+                [
+                    98,
+                    86
+                ],
+                [
+                    98,
+                    86
+                ],
+                [
+                    98,
+                    89
+                ],
+                [
+                    98,
+                    90
+                ],
+                [
+                    98,
+                    91
+                ],
+                [
+                    98,
+                    92
+                ],
+                [
+                    97,
+                    93
+                ],
+                [
+                    97,
+                    94
+                ],
+                [
+                    97,
+                    95
+                ],
+                [
+                    96,
+                    98
+                ],
+                [
+                    96,
+                    99
+                ],
+                [
+                    95,
+                    100
+                ],
+                [
+                    93,
+                    100
+                ],
+                [
+                    93,
+                    100
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteofibroma",
+            "points": [
+                [
+                    92,
+                    107
+                ],
+                [
+                    93,
+                    108
+                ],
+                [
+                    93,
+                    108
+                ],
+                [
+                    94,
+                    109
+                ],
+                [
+                    94,
+                    110
+                ],
+                [
+                    94,
+                    113
+                ],
+                [
+                    93,
+                    114
+                ],
+                [
+                    93,
+                    115
+                ],
+                [
+                    92,
+                    116
+                ],
+                [
+                    91,
+                    117
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001332.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

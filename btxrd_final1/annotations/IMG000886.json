@@ -1,0 +1,90 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    98,
+                    131
+                ],
+                [
+                    105,
+                    148
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    99,
+                    132
+                ],
+                [
+                    105,
+                    141
+                ],
+                [
+                    105,
+                    144
+                ],
+                [
+                    103,
+                    144
+                ],
+                [
+                    103,
+                    146
+                ],
+                [
+                    103,
+                    146
+                ],
+                [
+                    103,
+                    147
+                ],
+                [
+                    101,
+                    146
+                ],
+                [
+                    100,
+                    145
+                ],
+                [
+                    99,
+                    142
+                ],
+                [
+                    99,
+                    140
+                ],
+                [
+                    98,
+                    137
+                ],
+                [
+                    98,
+                    133
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000886.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

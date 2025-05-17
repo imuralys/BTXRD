@@ -1,0 +1,94 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    85,
+                    124
+                ],
+                [
+                    96,
+                    134
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    95,
+                    126
+                ],
+                [
+                    91,
+                    132
+                ],
+                [
+                    90,
+                    132
+                ],
+                [
+                    89,
+                    132
+                ],
+                [
+                    88,
+                    133
+                ],
+                [
+                    86,
+                    134
+                ],
+                [
+                    85,
+                    133
+                ],
+                [
+                    86,
+                    129
+                ],
+                [
+                    86,
+                    126
+                ],
+                [
+                    87,
+                    124
+                ],
+                [
+                    89,
+                    124
+                ],
+                [
+                    91,
+                    125
+                ],
+                [
+                    92,
+                    126
+                ],
+                [
+                    92,
+                    127
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000692.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

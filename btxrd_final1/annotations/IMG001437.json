@@ -1,0 +1,322 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    142,
+                    93
+                ],
+                [
+                    199,
+                    161
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    32,
+                    91
+                ],
+                [
+                    68,
+                    156
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    47,
+                    13
+                ],
+                [
+                    80,
+                    36
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    54,
+                    29
+                ],
+                [
+                    48,
+                    24
+                ],
+                [
+                    48,
+                    18
+                ],
+                [
+                    56,
+                    14
+                ],
+                [
+                    64,
+                    14
+                ],
+                [
+                    74,
+                    15
+                ],
+                [
+                    79,
+                    17
+                ],
+                [
+                    79,
+                    25
+                ],
+                [
+                    79,
+                    33
+                ],
+                [
+                    76,
+                    35
+                ],
+                [
+                    68,
+                    33
+                ],
+                [
+                    58,
+                    31
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    32,
+                    109
+                ],
+                [
+                    43,
+                    152
+                ],
+                [
+                    46,
+                    153
+                ],
+                [
+                    51,
+                    154
+                ],
+                [
+                    60,
+                    145
+                ],
+                [
+                    63,
+                    134
+                ],
+                [
+                    66,
+                    128
+                ],
+                [
+                    68,
+                    120
+                ],
+                [
+                    66,
+                    114
+                ],
+                [
+                    65,
+                    107
+                ],
+                [
+                    66,
+                    103
+                ],
+                [
+                    67,
+                    95
+                ],
+                [
+                    63,
+                    91
+                ],
+                [
+                    59,
+                    91
+                ],
+                [
+                    53,
+                    91
+                ],
+                [
+                    45,
+                    93
+                ],
+                [
+                    42,
+                    95
+                ],
+                [
+                    40,
+                    97
+                ],
+                [
+                    34,
+                    104
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    143,
+                    95
+                ],
+                [
+                    155,
+                    93
+                ],
+                [
+                    166,
+                    93
+                ],
+                [
+                    178,
+                    93
+                ],
+                [
+                    186,
+                    95
+                ],
+                [
+                    192,
+                    102
+                ],
+                [
+                    196,
+                    114
+                ],
+                [
+                    197,
+                    120
+                ],
+                [
+                    197,
+                    128
+                ],
+                [
+                    190,
+                    133
+                ],
+                [
+                    189,
+                    140
+                ],
+                [
+                    187,
+                    146
+                ],
+                [
+                    185,
+                    153
+                ],
+                [
+                    178,
+                    159
+                ],
+                [
+                    173,
+                    160
+                ],
+                [
+                    162,
+                    160
+                ],
+                [
+                    153,
+                    159
+                ],
+                [
+                    149,
+                    158
+                ],
+                [
+                    145,
+                    153
+                ],
+                [
+                    144,
+                    145
+                ],
+                [
+                    145,
+                    139
+                ],
+                [
+                    144,
+                    133
+                ],
+                [
+                    143,
+                    128
+                ],
+                [
+                    142,
+                    123
+                ],
+                [
+                    142,
+                    113
+                ],
+                [
+                    143,
+                    103
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001437.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

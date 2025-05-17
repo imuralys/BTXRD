@@ -1,0 +1,94 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "simple bone cyst",
+            "points": [
+                [
+                    112,
+                    81
+                ],
+                [
+                    118,
+                    89
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "simple bone cyst",
+            "points": [
+                [
+                    116,
+                    82
+                ],
+                [
+                    117,
+                    83
+                ],
+                [
+                    118,
+                    85
+                ],
+                [
+                    118,
+                    86
+                ],
+                [
+                    117,
+                    87
+                ],
+                [
+                    117,
+                    88
+                ],
+                [
+                    115,
+                    88
+                ],
+                [
+                    114,
+                    88
+                ],
+                [
+                    113,
+                    88
+                ],
+                [
+                    113,
+                    87
+                ],
+                [
+                    113,
+                    85
+                ],
+                [
+                    113,
+                    83
+                ],
+                [
+                    114,
+                    82
+                ],
+                [
+                    115,
+                    82
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000739.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

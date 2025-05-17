@@ -1,0 +1,74 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteosarcoma",
+            "points": [
+                [
+                    120,
+                    210
+                ],
+                [
+                    129,
+                    222
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteosarcoma",
+            "points": [
+                [
+                    120,
+                    210
+                ],
+                [
+                    123,
+                    210
+                ],
+                [
+                    126,
+                    210
+                ],
+                [
+                    128,
+                    213
+                ],
+                [
+                    129,
+                    216
+                ],
+                [
+                    129,
+                    220
+                ],
+                [
+                    129,
+                    221
+                ],
+                [
+                    129,
+                    222
+                ],
+                [
+                    122,
+                    222
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000169.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

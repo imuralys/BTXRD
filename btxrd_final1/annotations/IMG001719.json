@@ -1,0 +1,98 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteofibroma",
+            "points": [
+                [
+                    175,
+                    161
+                ],
+                [
+                    189,
+                    173
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteofibroma",
+            "points": [
+                [
+                    176,
+                    167
+                ],
+                [
+                    176,
+                    164
+                ],
+                [
+                    176,
+                    162
+                ],
+                [
+                    177,
+                    162
+                ],
+                [
+                    178,
+                    162
+                ],
+                [
+                    182,
+                    163
+                ],
+                [
+                    185,
+                    166
+                ],
+                [
+                    188,
+                    168
+                ],
+                [
+                    189,
+                    169
+                ],
+                [
+                    188,
+                    171
+                ],
+                [
+                    186,
+                    172
+                ],
+                [
+                    184,
+                    172
+                ],
+                [
+                    182,
+                    172
+                ],
+                [
+                    179,
+                    170
+                ],
+                [
+                    177,
+                    169
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001719.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

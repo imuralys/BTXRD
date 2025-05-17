@@ -1,0 +1,98 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    110,
+                    70
+                ],
+                [
+                    128,
+                    79
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    110,
+                    72
+                ],
+                [
+                    112,
+                    71
+                ],
+                [
+                    114,
+                    71
+                ],
+                [
+                    118,
+                    70
+                ],
+                [
+                    120,
+                    70
+                ],
+                [
+                    122,
+                    70
+                ],
+                [
+                    125,
+                    72
+                ],
+                [
+                    127,
+                    75
+                ],
+                [
+                    127,
+                    76
+                ],
+                [
+                    127,
+                    78
+                ],
+                [
+                    122,
+                    79
+                ],
+                [
+                    119,
+                    79
+                ],
+                [
+                    115,
+                    79
+                ],
+                [
+                    112,
+                    77
+                ],
+                [
+                    111,
+                    76
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001844.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

@@ -1,0 +1,94 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    115,
+                    154
+                ],
+                [
+                    122,
+                    161
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    117,
+                    160
+                ],
+                [
+                    116,
+                    160
+                ],
+                [
+                    116,
+                    159
+                ],
+                [
+                    115,
+                    158
+                ],
+                [
+                    115,
+                    157
+                ],
+                [
+                    116,
+                    156
+                ],
+                [
+                    117,
+                    156
+                ],
+                [
+                    119,
+                    156
+                ],
+                [
+                    120,
+                    157
+                ],
+                [
+                    121,
+                    158
+                ],
+                [
+                    121,
+                    159
+                ],
+                [
+                    121,
+                    161
+                ],
+                [
+                    120,
+                    161
+                ],
+                [
+                    118,
+                    161
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001043.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

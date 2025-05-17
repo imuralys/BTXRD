@@ -1,0 +1,90 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    133,
+                    100
+                ],
+                [
+                    154,
+                    134
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "other bt",
+            "points": [
+                [
+                    134,
+                    105
+                ],
+                [
+                    135,
+                    101
+                ],
+                [
+                    138,
+                    101
+                ],
+                [
+                    148,
+                    101
+                ],
+                [
+                    153,
+                    103
+                ],
+                [
+                    153,
+                    105
+                ],
+                [
+                    153,
+                    114
+                ],
+                [
+                    153,
+                    127
+                ],
+                [
+                    153,
+                    130
+                ],
+                [
+                    151,
+                    131
+                ],
+                [
+                    142,
+                    133
+                ],
+                [
+                    137,
+                    133
+                ],
+                [
+                    134,
+                    132
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000787.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

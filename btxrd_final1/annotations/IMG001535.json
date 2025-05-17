@@ -1,0 +1,94 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteosarcoma",
+            "points": [
+                [
+                    88,
+                    83
+                ],
+                [
+                    97,
+                    159
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteosarcoma",
+            "points": [
+                [
+                    92,
+                    84
+                ],
+                [
+                    95,
+                    92
+                ],
+                [
+                    96,
+                    118
+                ],
+                [
+                    94,
+                    158
+                ],
+                [
+                    93,
+                    151
+                ],
+                [
+                    93,
+                    146
+                ],
+                [
+                    91,
+                    143
+                ],
+                [
+                    90,
+                    139
+                ],
+                [
+                    90,
+                    132
+                ],
+                [
+                    89,
+                    122
+                ],
+                [
+                    88,
+                    113
+                ],
+                [
+                    88,
+                    104
+                ],
+                [
+                    89,
+                    98
+                ],
+                [
+                    91,
+                    89
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001535.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

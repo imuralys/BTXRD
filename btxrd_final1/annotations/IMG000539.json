@@ -1,0 +1,102 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteofibroma",
+            "points": [
+                [
+                    134,
+                    76
+                ],
+                [
+                    143,
+                    89
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteofibroma",
+            "points": [
+                [
+                    135,
+                    83
+                ],
+                [
+                    135,
+                    80
+                ],
+                [
+                    135,
+                    78
+                ],
+                [
+                    136,
+                    77
+                ],
+                [
+                    138,
+                    77
+                ],
+                [
+                    140,
+                    77
+                ],
+                [
+                    142,
+                    78
+                ],
+                [
+                    143,
+                    79
+                ],
+                [
+                    143,
+                    81
+                ],
+                [
+                    143,
+                    83
+                ],
+                [
+                    142,
+                    86
+                ],
+                [
+                    142,
+                    88
+                ],
+                [
+                    141,
+                    88
+                ],
+                [
+                    138,
+                    88
+                ],
+                [
+                    135,
+                    87
+                ],
+                [
+                    135,
+                    85
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000539.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

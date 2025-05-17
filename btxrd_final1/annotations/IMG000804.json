@@ -1,0 +1,90 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "synovial osteochondroma",
+            "points": [
+                [
+                    56,
+                    74
+                ],
+                [
+                    129,
+                    134
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "synovial osteochondroma",
+            "points": [
+                [
+                    64,
+                    93
+                ],
+                [
+                    112,
+                    83
+                ],
+                [
+                    115,
+                    75
+                ],
+                [
+                    119,
+                    75
+                ],
+                [
+                    124,
+                    90
+                ],
+                [
+                    128,
+                    119
+                ],
+                [
+                    128,
+                    127
+                ],
+                [
+                    112,
+                    131
+                ],
+                [
+                    64,
+                    132
+                ],
+                [
+                    60,
+                    121
+                ],
+                [
+                    59,
+                    111
+                ],
+                [
+                    58,
+                    105
+                ],
+                [
+                    60,
+                    97
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000804.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

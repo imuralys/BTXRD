@@ -1,0 +1,90 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    85,
+                    140
+                ],
+                [
+                    90,
+                    148
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    87,
+                    140
+                ],
+                [
+                    89,
+                    144
+                ],
+                [
+                    90,
+                    146
+                ],
+                [
+                    88,
+                    146
+                ],
+                [
+                    88,
+                    146
+                ],
+                [
+                    87,
+                    147
+                ],
+                [
+                    87,
+                    148
+                ],
+                [
+                    86,
+                    147
+                ],
+                [
+                    85,
+                    146
+                ],
+                [
+                    85,
+                    145
+                ],
+                [
+                    86,
+                    144
+                ],
+                [
+                    86,
+                    141
+                ],
+                [
+                    87,
+                    140
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000743.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

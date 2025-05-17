@@ -1,0 +1,110 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "synovial osteochondroma",
+            "points": [
+                [
+                    58,
+                    61
+                ],
+                [
+                    130,
+                    137
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "synovial osteochondroma",
+            "points": [
+                [
+                    63,
+                    121
+                ],
+                [
+                    60,
+                    109
+                ],
+                [
+                    58,
+                    97
+                ],
+                [
+                    59,
+                    88
+                ],
+                [
+                    62,
+                    80
+                ],
+                [
+                    67,
+                    73
+                ],
+                [
+                    77,
+                    65
+                ],
+                [
+                    85,
+                    64
+                ],
+                [
+                    94,
+                    64
+                ],
+                [
+                    106,
+                    70
+                ],
+                [
+                    124,
+                    82
+                ],
+                [
+                    127,
+                    89
+                ],
+                [
+                    129,
+                    98
+                ],
+                [
+                    129,
+                    105
+                ],
+                [
+                    129,
+                    122
+                ],
+                [
+                    129,
+                    126
+                ],
+                [
+                    127,
+                    129
+                ],
+                [
+                    117,
+                    130
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000650.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

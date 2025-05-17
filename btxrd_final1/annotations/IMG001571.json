@@ -1,0 +1,218 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    67,
+                    138
+                ],
+                [
+                    81,
+                    158
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    143,
+                    128
+                ],
+                [
+                    149,
+                    144
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    79,
+                    139
+                ],
+                [
+                    68,
+                    152
+                ],
+                [
+                    68,
+                    153
+                ],
+                [
+                    68,
+                    154
+                ],
+                [
+                    70,
+                    154
+                ],
+                [
+                    72,
+                    154
+                ],
+                [
+                    74,
+                    154
+                ],
+                [
+                    74,
+                    154
+                ],
+                [
+                    75,
+                    154
+                ],
+                [
+                    75,
+                    156
+                ],
+                [
+                    75,
+                    157
+                ],
+                [
+                    75,
+                    157
+                ],
+                [
+                    77,
+                    158
+                ],
+                [
+                    79,
+                    158
+                ],
+                [
+                    80,
+                    156
+                ],
+                [
+                    80,
+                    154
+                ],
+                [
+                    79,
+                    152
+                ],
+                [
+                    79,
+                    151
+                ],
+                [
+                    80,
+                    148
+                ],
+                [
+                    80,
+                    146
+                ],
+                [
+                    79,
+                    143
+                ],
+                [
+                    80,
+                    141
+                ],
+                [
+                    80,
+                    139
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteochondroma",
+            "points": [
+                [
+                    144,
+                    129
+                ],
+                [
+                    149,
+                    135
+                ],
+                [
+                    148,
+                    135
+                ],
+                [
+                    148,
+                    137
+                ],
+                [
+                    148,
+                    138
+                ],
+                [
+                    148,
+                    139
+                ],
+                [
+                    148,
+                    141
+                ],
+                [
+                    147,
+                    142
+                ],
+                [
+                    146,
+                    143
+                ],
+                [
+                    144,
+                    141
+                ],
+                [
+                    143,
+                    140
+                ],
+                [
+                    143,
+                    137
+                ],
+                [
+                    143,
+                    134
+                ],
+                [
+                    144,
+                    132
+                ],
+                [
+                    144,
+                    130
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001571.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

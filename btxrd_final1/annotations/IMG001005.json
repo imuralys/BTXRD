@@ -1,0 +1,90 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    86,
+                    141
+                ],
+                [
+                    92,
+                    158
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    89,
+                    141
+                ],
+                [
+                    86,
+                    157
+                ],
+                [
+                    87,
+                    156
+                ],
+                [
+                    88,
+                    156
+                ],
+                [
+                    89,
+                    157
+                ],
+                [
+                    90,
+                    157
+                ],
+                [
+                    91,
+                    156
+                ],
+                [
+                    91,
+                    154
+                ],
+                [
+                    90,
+                    152
+                ],
+                [
+                    90,
+                    150
+                ],
+                [
+                    91,
+                    147
+                ],
+                [
+                    91,
+                    144
+                ],
+                [
+                    90,
+                    142
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001005.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

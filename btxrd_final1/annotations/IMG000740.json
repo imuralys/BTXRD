@@ -1,0 +1,86 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "simple bone cyst",
+            "points": [
+                [
+                    106,
+                    79
+                ],
+                [
+                    112,
+                    87
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "simple bone cyst",
+            "points": [
+                [
+                    107,
+                    85
+                ],
+                [
+                    106,
+                    83
+                ],
+                [
+                    106,
+                    81
+                ],
+                [
+                    107,
+                    80
+                ],
+                [
+                    108,
+                    80
+                ],
+                [
+                    110,
+                    80
+                ],
+                [
+                    111,
+                    81
+                ],
+                [
+                    111,
+                    82
+                ],
+                [
+                    111,
+                    84
+                ],
+                [
+                    110,
+                    86
+                ],
+                [
+                    109,
+                    87
+                ],
+                [
+                    108,
+                    86
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000740.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

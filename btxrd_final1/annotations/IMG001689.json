@@ -1,0 +1,74 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteofibroma",
+            "points": [
+                [
+                    116,
+                    87
+                ],
+                [
+                    126,
+                    101
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteofibroma",
+            "points": [
+                [
+                    116,
+                    94
+                ],
+                [
+                    116,
+                    90
+                ],
+                [
+                    117,
+                    89
+                ],
+                [
+                    118,
+                    88
+                ],
+                [
+                    125,
+                    97
+                ],
+                [
+                    125,
+                    99
+                ],
+                [
+                    124,
+                    100
+                ],
+                [
+                    120,
+                    98
+                ],
+                [
+                    118,
+                    96
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001689.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

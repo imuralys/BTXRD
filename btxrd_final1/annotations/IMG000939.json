@@ -1,0 +1,130 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    95,
+                    189
+                ],
+                [
+                    107,
+                    215
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "multiple osteochondromas",
+            "points": [
+                [
+                    96,
+                    205
+                ],
+                [
+                    96,
+                    203
+                ],
+                [
+                    96,
+                    201
+                ],
+                [
+                    96,
+                    197
+                ],
+                [
+                    96,
+                    195
+                ],
+                [
+                    98,
+                    190
+                ],
+                [
+                    100,
+                    190
+                ],
+                [
+                    101,
+                    189
+                ],
+                [
+                    103,
+                    190
+                ],
+                [
+                    105,
+                    194
+                ],
+                [
+                    105,
+                    198
+                ],
+                [
+                    105,
+                    199
+                ],
+                [
+                    106,
+                    201
+                ],
+                [
+                    106,
+                    203
+                ],
+                [
+                    107,
+                    205
+                ],
+                [
+                    107,
+                    207
+                ],
+                [
+                    107,
+                    209
+                ],
+                [
+                    107,
+                    210
+                ],
+                [
+                    105,
+                    213
+                ],
+                [
+                    105,
+                    214
+                ],
+                [
+                    103,
+                    214
+                ],
+                [
+                    100,
+                    214
+                ],
+                [
+                    96,
+                    212
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG000939.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}

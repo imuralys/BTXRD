@@ -1,0 +1,130 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "osteosarcoma",
+            "points": [
+                [
+                    73,
+                    21
+                ],
+                [
+                    108,
+                    90
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "osteosarcoma",
+            "points": [
+                [
+                    105,
+                    23
+                ],
+                [
+                    100,
+                    24
+                ],
+                [
+                    94,
+                    27
+                ],
+                [
+                    88,
+                    30
+                ],
+                [
+                    86,
+                    33
+                ],
+                [
+                    83,
+                    42
+                ],
+                [
+                    79,
+                    46
+                ],
+                [
+                    78,
+                    54
+                ],
+                [
+                    77,
+                    61
+                ],
+                [
+                    75,
+                    71
+                ],
+                [
+                    75,
+                    78
+                ],
+                [
+                    76,
+                    85
+                ],
+                [
+                    78,
+                    87
+                ],
+                [
+                    84,
+                    90
+                ],
+                [
+                    88,
+                    90
+                ],
+                [
+                    91,
+                    88
+                ],
+                [
+                    93,
+                    80
+                ],
+                [
+                    103,
+                    73
+                ],
+                [
+                    106,
+                    63
+                ],
+                [
+                    107,
+                    52
+                ],
+                [
+                    104,
+                    46
+                ],
+                [
+                    105,
+                    34
+                ],
+                [
+                    106,
+                    26
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "IMG001471.jpg",
+    "imageData": null,
+    "imageHeight": 224,
+    "imageWidth": 224
+}
